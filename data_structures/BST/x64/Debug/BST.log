@@ -1,0 +1,5 @@
+﻿  bst_test.cpp
+C:\work\training\vs\BST\MemLeakDetector.h(23,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Tree.cpp
+  Generating Code...
+  BST.vcxproj -> C:\work\training\vs\BST\x64\Debug\BST.exe

@@ -1,0 +1,4 @@
+C:\work\training\vs\BST\x64\Debug\BST.vcxproj.CopyComplete
+C:\work\training\vs\BST\x64\Debug\BST.exe
+C:\work\training\vs\BST\x64\Debug\gtest.pdb
+C:\work\training\vs\BST\x64\Debug\gtest_main.pdb

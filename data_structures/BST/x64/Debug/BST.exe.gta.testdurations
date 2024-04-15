@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\work\training\vs\BST\x64\Debug\BST.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="BST.Memory_Insert_One" Duration="1" />
+    <TestDuration Test="BST.Memory_Insert_Two1" Duration="1" />
+    <TestDuration Test="BST.Memory_Insert_Two2" Duration="1" />
+    <TestDuration Test="BST.Memory_Insert_Three" Duration="1" />
+    <TestDuration Test="BST.Memory_Insert_Multiple" Duration="1" />
+    <TestDuration Test="BST.Check_Order_Empty" Duration="1" />
+    <TestDuration Test="BST.Check_Order_OneEl" Duration="1" />
+    <TestDuration Test="BST.Check_Order_TwoEl" Duration="1" />
+    <TestDuration Test="BST.Check_Order_ThreeEl" Duration="2" />
+    <TestDuration Test="BST.Check_Order_Multiple" Duration="1" />
+    <TestDuration Test="BST.Remove_Leaf" Duration="1" />
+    <TestDuration Test="BST.Remove_LeftChild" Duration="1" />
+    <TestDuration Test="BST.Remove_RightChild" Duration="1" />
+    <TestDuration Test="BST.Remove_Root_WithChildren" Duration="1" />
+    <TestDuration Test="BST.Remove_Case4" Duration="1" />
+    <TestDuration Test="BST.Remove_Case5" Duration="2" />
+    <TestDuration Test="BST.Remove_Case6" Duration="1" />
+    <TestDuration Test="BST.Remove_UnexistingEl" Duration="1" />
+    <TestDuration Test="BST.Remove_TwiceSameElement" Duration="2" />
+    <TestDuration Test="BST.IsSame_ALL_NULL" Duration="1" />
+    <TestDuration Test="BST.IsSame_R1_AND_NOT_R2" Duration="1" />
+    <TestDuration Test="BST.IsSame_NOT_R1_AND_R2" Duration="1" />
+    <TestDuration Test="BST.IsSame_R1_AND_R2" Duration="1" />
+    <TestDuration Test="BST.IsSame_EQ_INSERTION" Duration="1" />
+    <TestDuration Test="BST.IsSame_NOT_EQ_INSERTION" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
